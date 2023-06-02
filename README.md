@@ -3,4 +3,4 @@ Data exploration of two data sets on global COVID deaths count and vaccination n
 Saving results of the queries into MS Excel and visualizing them using Tableau Public.
 
 Resulting dashboard
-https://public.tableau.com/shared/3Z9FFKQ67?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CovidGlobal_16857096993330/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
